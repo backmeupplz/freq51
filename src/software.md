@@ -70,6 +70,11 @@ This page lists recommended software for the Meshtastic mesh network: official a
 - Description: Lightweight web analyzer: reads Meshtastic packets via MQTT/SQLite and provides dashboards for nodes, traceroutes, maps.  
 - Link: [GitHub – malla](https://github.com/zenitraM/malla)  
 
+**Mesh+ (by backmeupplz)**  
+- Platform: Android  
+- Description: A free, open-source (MIT) Android app for Meshtastic radios, about 3 MB: public chat, private rooms and direct messages in one list, an SMS relay through a phone on the mesh that has cell service, and USB firmware updates for nRF52 boards.  
+- Link: [Mesh+](https://meshplus.app)  
+
 ---
 
 ### ✅ Choosing the Right Software  
